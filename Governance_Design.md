@@ -101,3 +101,7 @@
 * Validator emergency veto (slashing risk if misused).
 * Time-locked treasury disbursements.
 * Community audits (on-chain proposal discussions).
+
+---
+
+![image](https://github.com/user-attachments/assets/f1ddd0b9-afad-4b16-ab90-0b0d4ab7177a)
