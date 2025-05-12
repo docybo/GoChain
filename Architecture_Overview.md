@@ -2,7 +2,8 @@
 
 ## 1. High-Level Architecture Diagram
 
-![image](https://github.com/user-attachments/assets/0f44fceb-cce6-432f-bfa9-f81174778f54)
+![image](https://github.com/user-attachments/assets/71bbddf3-2d97-41a1-a3ea-86ac69a2b0f6)
+
 
 
 ---
