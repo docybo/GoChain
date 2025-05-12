@@ -132,8 +132,3 @@ Response:
 ```
 END Balance: 7.25 GOX
 ```
-
----
-
-Would you like me to provide a **Postman collection or OpenAPI YAML spec** for this API?
-If yes, say "**YES, OPENAPI SPEC.**"
