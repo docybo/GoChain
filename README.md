@@ -118,9 +118,9 @@ We welcome contributions from the community.
 
 ## 📚 Documentation & Roadmap
 
-* [Architecture Overview](docs/architecture.md)
-* [USSD API Specification](docs/ussd-api.md)
-* [Governance Design](docs/governance.md)
-* [Roadmap](docs/roadmap.md)
+* [Architecture Overview](architecture.md)
+* [USSD API Specification](ussd-api.md)
+* [Governance Design](governance.md)
+* [Roadmap](roadmap.md)
 
 ---
