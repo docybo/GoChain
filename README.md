@@ -1,7 +1,3 @@
-Here is your **professional, GitHub-ready `README.md`** for your **GoChain** project (MIT licensed):
-
----
-
 # 🌍 GoChain
 
 An open-source **Rust-based blockchain prototype** tailored for **West Africa**, integrating:
